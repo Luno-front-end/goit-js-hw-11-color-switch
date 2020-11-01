@@ -1,25 +1,25 @@
 {
-  "name": "goit-js-hw-10-food-service",
+  "name": "goit-js-hw-11-color-switch",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /goit-js-hw-10-food-service/",
+    "build": "parcel build src/index.html --public-url /goit-js-hw-11-color-switch/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Luno-front-end/goit-js-hw-10-food-service.git"
+    "url": "git+https://github.com/Luno-front-end/goit-js-hw-11-color-switch.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Luno-front-end/goit-js-hw-10-food-service/issues"
+    "url": "https://github.com/Luno-front-end/goit-js-hw-11-color-switch/issues"
   },
-  "homepage": "https://Luno-front-end.github.io/goit-js-hw-10-food-service",
+  "homepage": "https://Luno-front-end.github.io/goit-js-hw-11-color-switch",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
